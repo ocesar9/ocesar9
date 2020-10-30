@@ -1,10 +1,7 @@
-### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas, atuando a 1 ano desenvolvendo aplicativos e sites como pesquisador. 
+### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas, atuando a 1 ano como desenvolvedor React.js e React Native pelo IFPE. 
 
-### Atualmente tenho aprendido sobre HTML5,CSS,Nunjucks,Java,Javascript,Typescript,React.js e React-Native,SQL.
+### Atualmente estou desenvolvendo e aprendendo sobre HTML5, Nunjucks, Java, Javascript, Typescript, React.js, React Native, Node.js e SQL.
 ### Atualmente sou pesquisador do SYNESTHESIAVISION e desenvolvedor do SIGABEM pelo GRENDES.
-
-
-
 
 ### Aqui está algumas informações interessantes:
 
