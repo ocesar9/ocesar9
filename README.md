@@ -1,9 +1,9 @@
 ### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas, atuando a 1 ano como desenvolvedor React.js e React Native pelo IFPE. 
 
-
 ## Linguagens e FrameWorks
 Linguagens: 
-    - CSS, HTML5, Java, Javascript, Typescript e SQL.
+    - CSS, HTML5, Java, Javascript, Jsx, Typescript e SQL.
+    
 FrameWorks: 
     - React.js, React Native, Node.js, Spring Boot.
 
