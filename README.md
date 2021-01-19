@@ -2,9 +2,11 @@
 
 ## Linguagens e FrameWorks
 Linguagens: 
+
     - CSS, HTML5, Java, Javascript, Jsx, Typescript e SQL.
     
 FrameWorks: 
+
     - React.js, React Native, Node.js, Spring Boot.
 
 ### Atualmente sou pesquisador do SYNESTHESIAVISION e desenvolvedor do SIGABEM pelo GRENDES.
