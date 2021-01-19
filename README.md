@@ -1,19 +1,14 @@
-### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas, atuando a 1 ano como desenvolvedor React.js e React Native pelo IFPE. 
+### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas, atuando a 2 anos como desenvolvedor Front-Web e Front-Mobile.
 
-## Linguagens e FrameWorks
-Linguagens: 
-
-    - CSS, HTML5, Java, Javascript, Jsx, Typescript e SQL.
-    
-FrameWorks: 
-
-    - React.js, React Native, Node.js, Spring Boot.
+### COMPETÊNCIAS
+    -React.js,React-Native,Node.js,Postgres,SQLite,Spring Boot,Git,Github.
+    -Java,JavaScript,JSX,TypeScript,Html5,CSS,SQL.
 
 ### Atualmente sou pesquisador do SYNESTHESIAVISION e desenvolvedor do SIGABEM pelo GRENDES.
 
 ### Aqui está algumas informações interessantes:
 
-### Link do meu Linkedin: https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-de-oliveira-guimar%C3%A3es-183110162/
+### Linkedin: https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-de-oliveira-guimar%C3%A3es-183110162/
 ### Email: juliocesaoguimaraes@gmail.com / jcog@discente.ifpe.edu.br
 
 ### Vamos nós conectar?💻👋🏻
