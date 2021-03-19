@@ -1,5 +1,4 @@
-### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas, atuando a 2 anos como desenvolvedor Front-Web e Front-Mobile.
-
+### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.
 ### COMPETÊNCIAS
     -React.js,React-Native,Node.js,Next.js,Postgres,SQLite,Spring Boot,Git,Github.
     -Java,JavaScript,JSX,TypeScript,Html5,CSS,SQL.
