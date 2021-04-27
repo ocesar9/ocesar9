@@ -1,7 +1,7 @@
 ### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.
 ### COMPETÊNCIAS
-    -React.js,React-Native,Node.js,Next.js,Postgres,SQLite,Spring Boot,Git,Github,Flutter e Porshi.
-    -Java,JavaScript,JSX,TypeScript,Html5,CSS,SQL e Dart.
+    - React.js,React-Native,Node.js,Next.js,Postgres,SQLite,Spring Boot,Git,Github,FLutter e Porshi.
+    - Java,JavaScript,JSX,TypeScript,Html5,CSS,SQL e Dart.
 
 ### Atualmente sou Estagiário de Engenharia de Software na Liferay Latim America
 
