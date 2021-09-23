@@ -1,4 +1,4 @@
-### Olá me chamo Júlio César, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.
+### Olá me chamo Júlio Guimarães, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.
 ### COMPETÊNCIAS
     - React.js,React-Native,Node.js,Next.js,Postgres,SQLite,Spring Boot,Git,Github,FLutter.
     - Java,JavaScript,JSX,TypeScript,Html5,CSS,SQL e Dart.
