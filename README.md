@@ -1,14 +1,13 @@
 ### Júlio Guimarães, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.
 
-### Atualmente sou Estagiário de Engenharia de Software na Liferay Latim America
+### Estagiário de Frontend na Liferay Latim America
 
 ### Pórtifolio: https://juliocesar.netlify.app/
-### Linkedin: https://www.linkedin.com/in/j%C3%BAlio-c%C3%A9sar-de-oliveira-guimar%C3%A3es-183110162/
 
 <div align="center">
   <a href="https://github.com/lioc3sar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoMaAlves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoMaAlves&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lioc3sar&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioc3sar&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div align="center" style="display: inline_block"><br>
