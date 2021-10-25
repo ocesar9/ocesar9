@@ -1,8 +1,11 @@
-### Júlio Guimarães, Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.
+<h2 align="center">
+  Hey there, I'm Júlio Guimarães 👋
+</h2>
 
-### Estagiário de Frontend na Liferay Latim America
-
-### Pórtifolio: https://juliocesar.netlify.app/
+<div align="center">
+Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.
+  <strong>Estagiário de Frontend na Liferay Latim America</strong>
+</div>
 
 <div align="center">
   <a href="https://github.com/lioc3sar">
@@ -19,6 +22,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
     
-  
+ <div align="center"> 
 <a href="https://www.linkedin.com/in/j%C3%BAlio-guimar%C3%A3es-183110162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
