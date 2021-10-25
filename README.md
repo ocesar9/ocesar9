@@ -13,7 +13,7 @@ Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de S
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lioc3sar&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
-<h2 align="center">
+<h2>
   Languages
 </h2>
 
@@ -27,7 +27,9 @@ Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de S
  <img src="https://camo.githubusercontent.com/4cfe18471a1e04d323974c7ff4e71b9ea2308d32a660d7b5c9b7f895e9d8e05f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3031373543323f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/e0fe31b4bf5a7cffb35f18ee50fcdbe1f61bde74f893781502ba2bf708f270f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3545354335433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white" style="max-width: 100%;">
   
-  
+ <h2>
+  Database
+</h2> 
 <img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
   
   
