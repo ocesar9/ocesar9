@@ -3,8 +3,8 @@
 </h2>
 
 <div align="center">
-Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas. </ br>
-  <strong>Estagiário de Frontend na Liferay Latim America</strong>
+Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de Sistemas.<br>
+<strong>Estagiário de Frontend na Liferay Latim America</strong>
 </div>
 
 <div align="center">
