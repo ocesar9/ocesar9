@@ -26,16 +26,15 @@ Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de S
  <img src="https://camo.githubusercontent.com/771cc18a712bf9edb0925a86164c34b0d803c4d9177dd4467eff7b777109c723/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=java&amp;logoColor=white" style="max-width: 100%;">
  <img src="https://camo.githubusercontent.com/4cfe18471a1e04d323974c7ff4e71b9ea2308d32a660d7b5c9b7f895e9d8e05f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446172742d3031373543323f7374796c653d666f722d7468652d6261646765266c6f676f3d64617274266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&amp;logo=dart&amp;logoColor=white" style="max-width: 100%;">
 <img src="https://camo.githubusercontent.com/e0fe31b4bf5a7cffb35f18ee50fcdbe1f61bde74f893781502ba2bf708f270f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a736f6e2d3545354335433f7374796c653d666f722d7468652d6261646765266c6f676f3d6a736f6e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&amp;logo=json&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/3b2a62d47612673d4a3c5ddb6b5cbc466e59342fa49aebe042bb1a52e0164e79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6561666c65742d3139393930303f7374796c653d666f722d7468652d6261646765266c6f676f3d4c6561666c6574266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&amp;logo=Leaflet&amp;logoColor=white" style="max-width: 100%;">
 </div>
-  
  <h2>
   Database
 </h2> 
  <div align="center">
    <img src="https://camo.githubusercontent.com/988b23566a8e239f9717abbed64d36834115c8a8c7082a71c358e04f47f8398c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d7953514c2d3030303030463f7374796c653d666f722d7468652d6261646765266c6f676f3d6d7973716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" style="max-width: 100%;">
-  </div>
-<br>    
- <div align="center"> 
-<a href="https://www.linkedin.com/in/j%C3%BAlio-guimar%C3%A3es-183110162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+   <img src="https://camo.githubusercontent.com/281c069a2703e948b536500b9fd808cb4fb2496b3b66741db4013a2c89e91986/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3331363139323f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" style="max-width: 100%;">
+   <img src="https://camo.githubusercontent.com/932123bf240349f3785c02228b113b06299079e8740f480c767e8335fd6d752a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53514c6974652d3037343035453f7374796c653d666f722d7468652d6261646765266c6f676f3d73716c697465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&amp;logo=sqlite&amp;logoColor=white" style="max-width: 100%;">
+ </div>
+
 
