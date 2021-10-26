@@ -67,5 +67,31 @@ Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de S
    <img src="https://camo.githubusercontent.com/0b9bce580a369d91352cf37397f1e079ef104531fc0bc53a145deb8f43fca535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
  <img src="https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" style="max-width: 100%;">
   </div>
+ <h2>
+   Workflown Plataforms
+  </h2>
+  <div align="center">
+    <img src="https://camo.githubusercontent.com/f13fb3756aed3170b8ede880519a7b5540728ee5202ac1a005e7c643ff4f28a9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6972612d3030353243433f7374796c653d666f722d7468652d6261646765266c6f676f3d4a697261266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&amp;logo=Jira&amp;logoColor=white" style="max-width: 100%;">
+  </div>
+  
+<h2>
+  Cloud
+  </h2>
+ <div align="center">
+   <img src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&amp;logo=heroku&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/92dde1e7c42c013a5fce4dfeee0843f06710bfd38a610885e33a273c7eca0d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/2fae549118710fd8284be62292b9e9a6cdd561cb50d46f35938b08dc3fc2c4e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" style="max-width: 100%;">
+  </div>
+  <h2>
+OS
+  </h2>
+<div align="center">
+     <img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/41281b9a32f13ac5b9d41ed9bae12c0de662f948f9bf59fd19df354fe49af146/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&amp;logo=windows&amp;logoColor=white" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;">
+ <img src="https://camo.githubusercontent.com/779e1e8de67b6f76e99d72dc5f758af3c80506064a7833fa5da4852cd77e3620/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4665646f72612d3239343137323f7374796c653d666f722d7468652d6261646765266c6f676f3d6665646f7261266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&amp;logo=fedora&amp;logoColor=white" style="max-width: 100%;"> 
+  </div>
 
+      
+ 
 
