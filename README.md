@@ -70,12 +70,7 @@ Técnico em Redes de Computadores e Graduando em Análise e Desenvolvimento de S
 src="https://camo.githubusercontent.com/878e15b4f7576e844856dc60d855ba0587d3d2bc56211fbe69734ebccb13b068/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b" data-canonical-src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" style="max-width: 100%;">
  <img src="https://camo.githubusercontent.com/779e1e8de67b6f76e99d72dc5f758af3c80506064a7833fa5da4852cd77e3620/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4665646f72612d3239343137323f7374796c653d666f722d7468652d6261646765266c6f676f3d6665646f7261266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&amp;logo=fedora&amp;logoColor=white" style="max-width: 100%;"> 
   </div>
- <h2>
-   Design
-  </h2>
-  <div align="center">
-    <img src="https://camo.githubusercontent.com/4a1038affbb2653ec140936555b3714ddc322526be8567b489e8423a795dea18/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d4632344531453f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" style="max-width: 100%;">
-  </div>
+
 
       
  
