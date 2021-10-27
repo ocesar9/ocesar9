@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-Technician in Computer Network and attending System Analysis and Development<br>
+Technician in Computer Network and attending System Analysis and Development at IFPE<br>
 <strong>Frontend Intern at Liferay Latim America</strong>
 </div>
 
