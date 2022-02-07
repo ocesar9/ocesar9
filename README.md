@@ -66,5 +66,4 @@ Technician in Computer Network and attending System Analysis and Development at 
   </h2>
  <div align="center">
    <img src="https://camo.githubusercontent.com/0b9bce580a369d91352cf37397f1e079ef104531fc0bc53a145deb8f43fca535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163745f4e61746976652d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642" data-canonical-src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" style="max-width: 100%;">
- <img src="https://camo.githubusercontent.com/1994e9cf3b0ad01831975faafe9e8c7ead09cf24b8d5fb6ca45a5d38b4d33549/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f466c75747465722d3032353639423f7374796c653d666f722d7468652d6261646765266c6f676f3d666c7574746572266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" style="max-width: 100%;">
   </div>
