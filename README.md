@@ -4,7 +4,7 @@
 
 <div align="center">
 Technician in Computer Network and attending System Analysis and Development at IFPE<br>
-<strong>Frontend Intern at Liferay Latim America</strong>
+<strong>Software Engineer Junior at Liferay Latim America</strong>
 </div>
 
 <div align="center">
