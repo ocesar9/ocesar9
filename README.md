@@ -7,10 +7,32 @@ Technician in Computer Network and attending System Analysis and Development at 
 <strong>Associate Consultant at Liferay Latim America</strong>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ocesar9">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ocesar9&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocesar9&layout=compact&langs_count=7&theme=github_dark"/>
+<div align="center"><br>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ocesar9&show_icons=true&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=ocesar9&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=ocesar9&show_icons=true" />
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ocesar9&layout=donut&theme=dracula"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ocesar9&layout=donut"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocesar9&layout=donut" />
+  </picture>
 </div>
   
 <h2>
