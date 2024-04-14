@@ -7,7 +7,7 @@
 
 ## My name is Júlio Guimarães
 (HTML5, CSS, SASS, TypeScript, JavaScript, React.js, Node.js, Bootstrap 4, Docker, Java, Stripe , Prisma, Tailwind) 🚀
-- 🧑‍💻 Desenvolvedor Fullstack
+- 🧑‍💻 Fullstack Developer
 - 🎓 Analysis and Systems Development @ [IFPE](https://portal.ifpe.edu.br/recife/)
 - 🌐 Web Development Lover
 - 🧑‍🎨 Interests in UX Desginer 
