@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-juliocesaoguimaraes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocesaoguimaraes@gmail.com)](mailto:juliocesaoguimaraes@gmail.com)
 
 ## My name is Júlio Guimarães
-(HTML5, CSS, SASS, TypeScript, JavaScript, React.js, Node.js, Bootstrap 4, Docker, Java, Stripe , Prisma, Tailwind) 🚀
+ HTML5, CSS3, SASS, TypeScript, JavaScript, React.js, Node.js, Bootstrap 4, Docker, Java, Stripe , Prisma, Tailwind, Liferay Portal 🚀
 - 🧑‍💻 Fullstack Developer
 - 🎓 Analysis and Systems Development @ [IFPE](https://portal.ifpe.edu.br/recife/)
 - 🌐 Web Development Lover
