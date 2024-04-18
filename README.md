@@ -12,9 +12,8 @@
 - 🌐 Web Development Lover
 - 🧑‍🎨 Interests in UX Desginer 
 
+## Stats
 
-<div align="center">
-  
-[![Júlio top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesar9&theme=blue-white)](https://github.com/ocesar9/github-readme-stats)
-  
- </div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ocesar9&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ocesar9&layout=compact&langs_count=7&theme=midnight-purple)
