@@ -3,7 +3,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/j%C3%BAlio-guimar%C3%A3es-183110162/)](https://www.linkedin.com/in/j%C3%BAlio-guimar%C3%A3es-183110162/)
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://juliocesar.netlify.app/)
-[![Gmail Badge](https://img.shields.io/badge/-juliocesaoguimaraes@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juliocesaoguimaraes@gmail.com)](mailto:juliocesaoguimaraes@gmail.com)
 
 ## My name is Júlio Guimarães
  HTML5, CSS3, SASS, TypeScript, JavaScript, React.js, Node.js, Bootstrap 4, Docker, Java, Stripe , Prisma, Tailwind, Liferay Portal 🚀
