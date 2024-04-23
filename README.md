@@ -5,7 +5,7 @@
 [![Personal Badge](https://img.shields.io/badge/-Website-6633cc?style=flat-square&logo=Me&logoColor=white&link=https://www.fernandakipper.com/)](https://juliocesar.netlify.app/)
 
 ## My name is Júlio Guimarães
- HTML5, CSS3, SASS, TypeScript, JavaScript, React.js, Node.js, Bootstrap 4, Docker, Java, Stripe , Prisma, Tailwind, Liferay Portal 🚀
+ HTML5, CSS3, SASS, TypeScript, JavaScript, React.js, Node.js, Bootstrap 4, Docker, Java, Stripe , Prisma, Tailwind, Liferay Portal
 - 🧑‍💻 Fullstack Developer
 - 🎓 Analysis and Systems Development @ [IFPE](https://portal.ifpe.edu.br/recife/)
 - 🌐 Web Development Lover
